@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Diana Montes",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,9 +11,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"author": {
-		"name": "Diana Montes",
-		"email": "dianacarolinamontes@gmail.com"
 	}
 }
